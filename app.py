@@ -1,1 +1,5 @@
-print("Hello from Session 2")
+def greet(name):
+    return f"Hello, {name}"
+
+
+print(greet("Student A"))
